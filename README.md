@@ -16,10 +16,10 @@ Do time series analysis of word sentiment, through which we see the monthly chan
 
 4. Based on our analysis, we provide Chipotle with four suggestions in the areas of ingredient quality, wait times and digital ordering. 
 
-The first one is to improve the freshness and quality of its ingredients to regain its strategic strength. 
+  The first one is to improve the freshness and quality of its ingredients to regain its strategic strength. 
 
-The second one is to investigate the supply chain to see how to improve the quality and taste of its proteins, especially chicken. 
+  The second one is to investigate the supply chain to see how to improve the quality and taste of its proteins, especially chicken. 
 
-The third one is to investigate the current quality of its most important product, burrito, which has gone fewer and fewer positive reviews. 
+  The third one is to investigate the current quality of its most important product, burrito, which has gone fewer and fewer positive reviews. 
 
-At last, Chipotle should improve the online ordering system and mobile app, in order to better solve the wait time problem and improve customers’ buying experience.
+  At last, Chipotle should improve the online ordering system and mobile app, in order to better solve the wait time problem and improve customers’ buying experience.
